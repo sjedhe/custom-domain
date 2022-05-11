@@ -1,1 +1,1 @@
-# Subdomain takeover Proof of Concept
+# Subdomain Takeover Proof of Concept
